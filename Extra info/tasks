@@ -1,0 +1,11 @@
+Initial steps
+1. Create index for elasticsearch (refer columns in table ddl
+2. help setup es for nikhil
+3. insert apis to nikhil for elasticsearch
+4. es-util, create apis to search
+5. logic to aggregate and update response
+
+Final steps:
+1. automated python etl
+2. 800 mb file
+3. test search
